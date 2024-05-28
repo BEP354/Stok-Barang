@@ -1,0 +1,16 @@
+Nama : Bagus Ellang Permadi
+NIM  : 2103040015
+Step 1: Extract file u2103040015
+Step 2: Copy project ke dalam folder
+Step 3: Paste in xampp/htdocs/
+Step 4: buka Browser URL “http://localhost/phpmyadmin/”
+Step 5: Kemudian, klik pada tab database
+Step 6: Buat penamaan database "u2103040015" dan kemudian klik pada tab import
+Step 7: Klik browse file dan pilih file "u2103040015.sql" yang ada di dalam folder "u210300015"
+Step 8: lalu klik Go.
+Step 9: buka Browser URL “http://localhost/Stokbarang/login.php”
+
+
+Login
+Email Address : ump@gmail.com
+Password      : 11111
